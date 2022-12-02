@@ -4,6 +4,9 @@ Earth
  - Moon
 Mars
 Jupiter
+ - Callisto
+ - Himalia
+ - Ananke
 Saturn
 Uranus
 Neptune
