@@ -7,7 +7,9 @@ Jupiter
  - Callisto
  - Himalia
  - Ananke
+ - Europa
 Saturn
+ - Titan
 Uranus
 Neptune
 Pluto
