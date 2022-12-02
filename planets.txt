@@ -5,6 +5,9 @@ Earth
 Mars
 Ceres
 Jupiter
+ - Callisto
+ - Himalia
+ - Ananke
  - Europa
 Saturn
  - Titan
