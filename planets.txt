@@ -3,6 +3,7 @@ Venus
 Earth
  - Moon
 Mars
+Ceres
 Jupiter
  - Europa
 Saturn
@@ -10,3 +11,4 @@ Saturn
 Uranus
 Neptune
 Pluto
+Eris
