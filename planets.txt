@@ -10,3 +10,4 @@ Saturn
 Uranus
 Neptune
 Pluto
+Eris
