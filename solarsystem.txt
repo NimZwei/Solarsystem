@@ -7,9 +7,12 @@ Mars
 - Phobos
 - Deimos
 Asteroidengürtel
+- Ceres
 Jupiter
 - Europa
 Saturn
 Uranus
-Pluto
-Eris
+Kometen-Gürtel
+- Pluto
+- Eris
+- Haumea
