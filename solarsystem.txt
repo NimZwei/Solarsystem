@@ -6,6 +6,7 @@ Erde
 Mars
 - Phobos
 - Deimos
+Asteroidengürtel
 Jupiter
 - Europa
 Saturn
