@@ -6,9 +6,11 @@ Erde
 Mars
 - Phobos
 - Deimos
+Ceres
 Jupiter
 - Europa
 Saturn
 Uranus
 Pluto
 Eris
+Haumea
