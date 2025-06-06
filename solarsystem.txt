@@ -6,11 +6,13 @@ Erde
 Mars
 - Phobos
 - Deimos
-Ceres
+Asteroidengürtel
+- Ceres
 Jupiter
 - Europa
 Saturn
 Uranus
-Pluto
-Eris
-Haumea
+Kommeten Gürtel
+- Pluto
+- Eris
+- Haumea
