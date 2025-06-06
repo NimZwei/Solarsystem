@@ -4,6 +4,7 @@ Venus
 Erde
 - Mond
 Mars
+Ceres
 - Phobos
 - Deimos
 Jupiter
