@@ -7,9 +7,37 @@ Mars
 - Phobos
 - Deimos
 Asteroidengürtel
+-Ceres
 Jupiter
 - Europa
 Saturn
 Uranus
-Pluto
-Eris
+Kommeten-Gürtel
+- Pluto
+- Eris
+- Haumea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Very dangerous stuff
